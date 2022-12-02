@@ -1,1 +1,2 @@
-# TOP-landing-page
+# TOP landing page
+This is the landing page project from The Odin Project curriculum. This project is part of the FlexBox subject. The objective here is to use basic HTML, basic CSS and flexbox to create a simple landing page and strength the knowlegde adquired in the course so far. The design interface was given by them.
