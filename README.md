@@ -1,2 +1,6 @@
 # TOP landing page
-This is the landing page project from The Odin Project curriculum. This project is part of the FlexBox subject. The objective here is to use basic HTML and basic CSS with flexbox to create a simple landing page and strength the knowlegde adquired in the course so far. The design interface was given by them and I will keep as it is because my main objective here is to pratice positioning the elements of the page.
+This is the landing page project from The Odin Project curriculum. This project is part of the FlexBox subject. The objective here is to use basic HTML and basic CSS with flexbox to create a simple landing page and strength the knowlegde adquired in the course so far. The [design interface](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) was given by them and I will keep as it is because my main objective here is to pratice positioning the elements of the page.
+
+This project thaught me how to use flexbox to position elements in the page. It was not easy, positioning elements can be frustating sometimes but I think I did well. I really enjoyed the final result.
+
+One thing that I notice was that I'm always repeating the same piece of code over and over, eg.: display:flex; justify-content:space-around; align-items:center... This repetition makes me feel like I'm doing something wrong. Maybe there is a better way to not be so repetitive but I don't know yet.
